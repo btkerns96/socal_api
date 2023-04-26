@@ -41,4 +41,4 @@ const userController = {
         console.log(err);
         res.sendStatus(400);
       });
-  },
+  }};
